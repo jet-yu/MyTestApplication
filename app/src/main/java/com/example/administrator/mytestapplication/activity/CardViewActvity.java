@@ -7,7 +7,7 @@ import com.example.administrator.mytestapplication.R;
 
 /**
  * Created by Administrator on 2016/2/3.
- * @function cardview
+ * @function cardview  123git
  */
 public class CardViewActvity extends Activity {
     @Override
