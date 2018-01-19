@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#664DFFFF</color>
+    <color name="colorPrimaryDark">#66009100</color>
+    <color name="colorAccent">#66FF4081</color>
+
+
+    <color name="common_blue">#365899</color>
+
+    <!-- background color -->
+    <color name="bg_white">#ffffff</color>
+    <color name="bg_light_gray">#f4f4f4</color>
+    <color name="bg_f7">#f7f7f7</color>
+    <color name="bg_pure_black">#000000</color>
+
+    <color name="bg_blue">#47b0ed</color>
+    <color name="half_transparent">#88000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="bg_yzc">#dfdfe2</color>
+    <color name="bg_red">#cf3b3d</color>
+    <color name="bg_8f8">#F8F8F8</color>
+    <color name="bg_fb">#FBFBFB</color>
+    <color name="bg_ccc">#cccccc</color>
+    <color name="bg_translucent">#66000000</color>
+    <color name="bg_translucent_30">#4C000000</color>
+    <color name="bg_translucent_70">#B3000000</color>
+    <color name="bg_search_kuang">#EAEAEA</color>
+    <color name="bg_f679">#f6f7f9</color>
+    <color name="bg_eef7ff">#eef7ff</color>
+    <color name="bg_transparent">@android:color/transparent</color>
+    <color name="bg_white_80">#CCFFFFFF</color>
+    <!--点击@或者#号背景颜色-->
+    <color name="bg_bcbec2">#BCBEC2</color>
+
+    <color name="bg_grey">#EBEBEA</color>
+    <!--编辑框背景线条颜色-->
+    <color name="bg_gray_8d8">#D8D8D8</color>
+    <color name="bg_black">#1f1f1f</color>
+    <color name="bg_blacks">#2c353e</color>
+    <color name="bg_tran_gray">#8000</color>
+    <color name="bg_color_9af">#F9D9AF</color>
+    <color name="bg_color_d1e6f5">#D1E6F5</color>
+
+    <!-- 分割线颜色 -->
+    <color name="dividers">#d8d8d8</color>
+    <color name="dividers_ddd">#DDDDDD</color>
+
+    <!-- text color -->
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_black">#000000</color>
+    <color name="text_red">#ff0000</color>
+    <color name="text_red_bottom">#FD533F</color>
+    <color name="text_update_notice_red">#D0021B</color>
+    <color name="text_red_sign_out">#f32828</color>
+    <color name="text_yellow">#ccad62</color>
+    <color name="text_gray">#999999</color>
+    <color name="text_gray_666">#666</color>
+    <color name="text_gray_8b8">#b8b8b8</color>
+    <color name="text_gray_e8e">#e8e8e8</color>
+    <color name="text_gray_f0f">#f0f0f0</color>
+    <color name="text_gray_333">#333333</color>
+    <color name="text_blue">#6bc7f8</color>
+    <color name="text_lightblue">#62C4EB</color>
+    <color name="text_orange">#f37213</color>
+    <color name="text_orange_f28">#E79F28</color>
+    <color name="text_green">#27c416</color>
+    <color name="text_dark_green">#228B22</color>
+    <color name="text_hint">#d0d0d0</color>
+    <color name="bggrey">#333634</color>
+    <color name="border_color">#365899</color>
+    <color name="viewfinder_frame">#2477ab</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <color name="personalgray">#efeff5</color>
+    <color name="grey01">#eff0f5</color>
+    <color name="grayline">#DEDEDE</color>
+    <color name="graytext">#ADADAD</color>
+    <color name="grey">#dfdfe2</color>
+    <color name="text_blacks">#666666</color>
+    <color name="text_search_black">#c8c8c8</color>
+    <color name="text_divider">#999999</color>
+    <color name="switch_open_green">#009688</color>
+    <color name="text_97552c">#97552c</color>
+    <color name="text_a45b5b">#a45b5b</color>
+    <color name="text_358BCC">#358BCC</color>
+    <color name="text_a2a6ab">#A2A6AB</color>
+    <color name="text_5f97e5">#5f97e5</color>
+    <color name="text_gray_71747A">#71747A</color>
+    <color name="text_red_f43531">#F43531</color>
+
+    <color name="mdtp_accent_color">#009688</color>
+    <color name="mdtp_accent_color_dark">#00796b</color>
+
+    <color name="transparent_">#00FFFFFF</color>
+</resources>

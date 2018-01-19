@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/build/intermediates/res/merged/debug/drawable-hdpi_slide_button_background.png.flat",
+        "source": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/src/main/res/drawable-hdpi/slide_button_background.png"
+    },
+    {
+        "merged": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/build/intermediates/res/merged/debug/drawable-hdpi_switch_background.png.flat",
+        "source": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/src/main/res/drawable-hdpi/switch_background.png"
+    },
+    {
+        "merged": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/xu.yu/mPerson_AndroidStudioSpace/MyTestApplication/test/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

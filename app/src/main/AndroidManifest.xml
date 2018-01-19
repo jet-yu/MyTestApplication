@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.administrator.mytestapplication">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 往SDCard写入数据权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".activity.SnackBarActvty"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+
+        </activity>
+
+        <activity
+            android:name=".activity.RecyclerViewActivity"
+            android:label="@string/app_name"
+            android:theme="@style/App_Theme"></activity>
+
+        <activity
+            android:name=".activity.CardViewActvity"
+            android:label="@string/app_name"
+            android:theme="@style/App_Theme"></activity>
+
+        <activity
+            android:name=".myviewactivity.View1Activity"
+            android:label="@string/app_name"
+            android:theme="@style/App_Theme"></activity>
+
+        <activity
+            android:name=".myviewactivity.ViewActivity"
+            android:label="@string/app_name"
+            android:theme="@style/App_Theme"></activity>
+
+        <activity
+            android:name=".activity.ShowListActivity"
+            android:hardwareAccelerated="false"
+            android:label="@string/app_name"
+            android:theme="@style/App_Theme">
+            <!--<intent-filter>-->
+            <!--<action android:name="android.intent.action.MAIN" />-->
+
+            <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        </activity>
+
+        <activity
+            android:name=".activity.RSAActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/app_name"
+            android:theme="@style/App_Theme">
+            <!--<intent-filter>-->
+            <!--<action android:name="android.intent.action.MAIN" />-->
+
+            <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        </activity>
+        <activity
+            android:name=".activity.TranspaStatusBarActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/app_name"
+            android:theme="@style/App_Theme">
+            <!--<intent-filter>-->
+            <!--<action android:name="android.intent.action.MAIN" />-->
+
+            <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        </activity>
+
+        <activity
+            android:name=".securityactivity.CheckFileRightActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/app_name"
+            android:theme="@style/App_Theme">
+            <!--<intent-filter>-->
+            <!--<action android:name="android.intent.action.MAIN" />-->
+
+            <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        </activity>
+
+        <activity
+            android:name=".activity.GoAppStoreActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/app_name"
+            android:theme="@style/App_Theme">
+            <!--<intent-filter>-->
+            <!--<action android:name="android.intent.action.MAIN" />-->
+
+            <!--<category android:name="android.intent.category.LAUNCHER" />-->
+            <!--</intent-filter>-->
+        </activity>
+
+        <activity android:name=".eventbusactivity.FirstActivity">
+
+        </activity>
+        <activity android:name=".eventbusactivity.SecondActivity">
+
+        </activity>
+        <activity android:name=".eventbusactivity.StickyActivity">
+
+        </activity>
+        <activity android:name=".eventbusactivity.EventBusGuideActivity">
+
+        </activity>
+
+        <activity android:name=".myviewactivity.MyViewGuideActivity">
+
+        </activity>
+        <activity android:name=".activity.SpinnerActivity">
+
+        </activity>
+        <activity android:name=".activity.ViewGuideActivity">
+
+        </activity>
+
+        <activity android:name="com.example.administrator.mytestapplication.myviewactivity.ViewPagerActivity">
+
+        </activity>
+        <activity android:name="com.example.administrator.mytestapplication.myviewactivity.SlideViewActivity">
+
+        </activity>
+        <activity android:name="com.example.administrator.mytestapplication.myviewactivity.ScrollActivity">
+
+        </activity>
+        <activity android:name="com.example.administrator.mytestapplication.myviewactivity.MultiScreenActivity">
+
+        </activity>
+
+        <activity android:name="com.example.administrator.mytestapplication.myviewactivity.ScrollActivity2">
+
+        </activity>
+        <activity android:name="com.example.administrator.mytestapplication.myviewactivity.GifActivity">
+
+        </activity>
+        <activity android:name="com.example.administrator.mytestapplication.activity.PropertyAnimationActivity"></activity>
+
+        <activity android:name="com.example.administrator.mytestapplication.animationactivity.FrameActivity"></activity>
+
+        <activity android:name=".animationactivity.AnimationGuideActivity"></activity>
+
+        <activity android:name=".animationactivity.ToCodeActivity"></activity>
+
+        <activity android:name=".animationactivity.ToXMLActivity"></activity>
+
+        <activity android:name="com.example.administrator.mytestapplication.myviewactivity.DragGridActivity"></activity>
+        <activity android:name="com.example.administrator.mytestapplication.activity.SNSActivity"></activity>
+
+        <activity android:name=".activity.xuliehua.XuLieActivity"></activity>
+
+        <activity android:name="com.example.administrator.mytestapplication.myviewactivity.ZuoBiaoActivity"></activity>
+        <activity android:name="com.example.administrator.mytestapplication.myviewactivity.AActivity"></activity>
+        <activity android:name="com.example.administrator.mytestapplication.animationactivity.HeartBeatActivity"></activity>
+
+        <activity
+            android:name="com.example.administrator.mytestapplication.other.OtherActivity"
+            android:windowSoftInputMode="adjustResize"></activity>
+
+        <activity
+            android:name="com.example.administrator.mytestapplication.myviewactivity.CircleActivity"
+            android:windowSoftInputMode="adjustResize"></activity>
+
+    </application>
+
+</manifest>

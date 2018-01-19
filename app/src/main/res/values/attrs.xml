@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="abc" format="integer" />
+
+    <declare-styleable name="MyImageView">
+        <attr name="Text" format="reference|string"></attr>
+        <attr name="Oriental">
+            <enum name="Horizontal" value="1"></enum>
+            <enum name="Vertical" value="0"></enum>
+        </attr>
+        <attr name="Src" format="reference|integer"></attr>
+    </declare-styleable>
+
+
+    <declare-styleable name="ShapedImageView">
+        <attr name="shape_mode" format="enum">
+            <enum name="round_rect" value="1" />
+            <enum name="circle" value="2" />
+        </attr>
+        <attr name="round_radius" format="dimension" />
+    </declare-styleable>
+
+</resources>

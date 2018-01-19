@@ -1,0 +1,15 @@
+<view.CustomView2 xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/custom_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#aaa"
+        android:gravity="center_horizontal"
+        android:text="下拉"
+        android:textSize="32sp" />
+</view.CustomView2>

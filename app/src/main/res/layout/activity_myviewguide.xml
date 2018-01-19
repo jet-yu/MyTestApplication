@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_item1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="go view" />
+
+    <Button
+        android:id="@+id/btn_item2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="自定义view" />
+
+    <Button
+        android:id="@+id/btn_item3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="viewpager" />
+
+    <Button
+        android:id="@+id/btn_item4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="列表侧滑删除" />
+
+    <Button
+        android:id="@+id/btn_item5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="内容滑动" />
+
+    <Button
+        android:id="@+id/btn_item6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="多屏幕滑动" />
+
+    <Button
+        android:id="@+id/btn_item7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="滑动2" />
+
+    <Button
+        android:id="@+id/btn_item8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="欢迎页动画" />
+
+    <Button
+        android:id="@+id/btn_item9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="拖动列表" />
+
+    <Button
+        android:id="@+id/btn_item10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="坐标——zuobiaoactivity" />
+
+    <Button
+        android:id="@+id/btn_item11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="仿知乎点击按钮" />
+
+    <Button
+        android:id="@+id/btn_item12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="圆角图片" />
+
+</LinearLayout>
